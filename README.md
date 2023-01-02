@@ -1,5 +1,5 @@
 # Fifa22_analysis
-served as a learning project and an introduction to machine learning and data manipulation.
+served as a learning project and an introduction to data science and data manipulation.
 ## features:
 * implementation of the whole project was build using jupyter notebook and writtin using python.
 * kaggle was used to import a data set containing the details of all the players in FIFA 22.
